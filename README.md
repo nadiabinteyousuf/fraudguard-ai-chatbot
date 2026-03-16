@@ -310,10 +310,3 @@ Open browser: `http://localhost:8501`
 
 ---
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests with improvements!
-
-## License
-
-This project is licensed under the MIT License.
