@@ -1,0 +1,21 @@
+AML Structuring:
+Structuring is a money laundering technique where criminals break large financial transactions into many smaller ones to avoid regulatory reporting thresholds. For example, instead of depositing $20,000 at once, a person may deposit $4,000 five times.
+
+Smurfing:
+Smurfing is a form of structuring where multiple individuals or accounts are used to conduct small transactions to hide the origin of funds.
+
+FATF Recommendation 16:
+FATF Recommendation 16 focuses on wire transfers. It requires financial institutions to collect and transmit accurate information about the sender and recipient to prevent money laundering and terrorist financing.
+
+Sanctions Screening:
+Sanctions screening is the process of checking customers, transactions, and counterparties against international sanctions lists such as OFAC, UN, EU, and UK lists.
+
+Suspicious Transaction:
+A suspicious transaction is any financial activity that appears unusual, lacks a clear economic purpose, or may involve money laundering, fraud, or terrorism financing.
+
+Red Flags in Financial Transactions:
+- Repeated transactions just below reporting thresholds
+- Sudden large transfers
+- Frequent transfers between unrelated accounts
+- Transactions involving high-risk countries
+- Structuring or smurfing patterns

@@ -1,0 +1,16 @@
+
+.env
+backend/.env
+
+
+__pycache__/
+*.pyc
+
+
+venv/
+backend/venv/
+
+
+faiss_index/
+
+
