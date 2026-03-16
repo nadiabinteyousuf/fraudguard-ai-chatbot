@@ -303,7 +303,7 @@ LANGCHAIN_PROJECT=FraudGuard-AI
 ### Step 5 – Run the Application
 
 ```bash
-streamlit run frontend/app.py
+streamlit run app.py
 ```
 
 Open browser: `http://localhost:8501`
